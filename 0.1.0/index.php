@@ -4,7 +4,9 @@ $text1 = "抱歉。因为目前在小规模测试阶段，你的IP地址尚未�
 $text2 = "Error code:IP IS NOT TRUE(10328)（可能在提供反馈时需要）";
 $version = "Beta 0.1.0";
 echo $text1;
+echo "<br>";
 echo $text2;
+echo "<br>";
 echo $version;
 function get_real_ip(){ 
 	$ip=false; 
