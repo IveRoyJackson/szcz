@@ -1,7 +1,7 @@
 <?php
 $text1 = "抱歉。因为目前在小规模测试阶段，你的IP地址尚未记录在库，所以你无法访问“数字岔中”";
-$text2 = "Error code:IP IS NOT TRUE(10328)（可能在提供反馈时需要）"
-$version = "Beta 0.1.0"
+$text2 = "Error code:IP IS NOT TRUE(10328)（可能在提供反馈时需要）";
+$version = "Beta 0.1.0";
 echo $text1;
 echo $text2;
 echo $version;
